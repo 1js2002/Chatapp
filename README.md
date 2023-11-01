@@ -13,6 +13,8 @@ Uses Socket.io for real time communication and stores user details in encrypted 
 
 ## Demo
 
+https://talkative-ikm1.onrender.com
+
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/group%20%2B%20notif.PNG)
 
 ## Run Locally
